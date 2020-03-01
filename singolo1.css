@@ -96,8 +96,9 @@ body {
   background-color: #f06c64;
 }
 .slider__body {
+  /*убрать высоту*/
   position: relative; 
-  height: 594px;/*@Fixme: убрать высоту*/
+  height: 594px;
 }
 .slider__item--1 > img:first-child {
   margin-top: 53px;
