@@ -1,0 +1,326 @@
+/* lato-100 - latin */
+@font-face {
+  font-family: "Lato";
+  font-weight: 100;
+  font-style: normal;
+
+  src: url("/assets/fonts/lato/lato-v16-latin-100.eot");
+  /* IE9 Compat Modes */
+  src: local("Lato Hairline"), local("Lato-Hairline"), url("/assets/fonts/lato/lato-v16-latin-100.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-100.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-100.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-100.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-100.svg#Lato") format("svg");
+  /* Legacy iOS */
+}
+
+/* lato-100italic - latin */
+@font-face {
+  font-family: "Lato";
+  font-weight: 100;
+  font-style: italic;
+
+  src: url("/assets/fonts/lato/lato-v16-latin-100italic.eot");
+  /* IE9 Compat Modes */
+  src: local("Lato Hairline Italic"), local("Lato-HairlineItalic"), url("/assets/fonts/lato/lato-v16-latin-100italic.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-100italic.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-100italic.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-100italic.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-100italic.svg#Lato") format("svg");
+  /* Legacy iOS */
+}
+
+/* lato-300 - latin */
+@font-face {
+  font-family: "Lato";
+  font-weight: 300;
+  font-style: normal;
+
+  src: url("/assets/fonts/lato/lato-v16-latin-300.eot");
+  /* IE9 Compat Modes */
+  src: local("Lato Light"), local("Lato-Light"), url("/assets/fonts/lato/lato-v16-latin-300.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-300.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-300.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-300.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-300.svg#Lato") format("svg");
+  /* Legacy iOS */
+}
+
+/* lato-300italic - latin */
+@font-face {
+  font-family: "Lato";
+  font-weight: 300;
+  font-style: italic;
+
+  src: url("/assets/fonts/lato/lato-v16-latin-300italic.eot");
+  /* IE9 Compat Modes */
+  src: local("Lato Light Italic"), local("Lato-LightItalic"), url("/assets/fonts/lato/lato-v16-latin-300italic.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-300italic.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-300italic.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-300italic.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-300italic.svg#Lato") format("svg");
+  /* Legacy iOS */
+}
+
+/* lato-regular - latin */
+@font-face {
+  font-family: "Lato";
+  font-weight: 400;
+  font-style: normal;
+
+  src: url("/assets/fonts/lato/lato-v16-latin-regular.eot");
+  /* IE9 Compat Modes */
+  src: local("Lato Regular"), local("Lato-Regular"), url("/assets/fonts/lato/lato-v16-latin-regular.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-regular.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-regular.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-regular.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-regular.svg#Lato") format("svg");
+  /* Legacy iOS */
+}
+
+/* lato-italic - latin */
+@font-face {
+  font-family: "Lato";
+  font-weight: 400;
+  font-style: italic;
+
+  src: url("/assets/fonts/lato/lato-v16-latin-italic.eot");
+  /* IE9 Compat Modes */
+  src: local("Lato Italic"), local("Lato-Italic"), url("/assets/fonts/lato/lato-v16-latin-italic.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-italic.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-italic.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-italic.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-italic.svg#Lato") format("svg");
+  /* Legacy iOS */
+}
+
+/* lato-700 - latin */
+@font-face {
+  font-family: "Lato";
+  font-weight: 700;
+  font-style: normal;
+
+  src: url("/assets/fonts/lato/lato-v16-latin-700.eot");
+  /* IE9 Compat Modes */
+  src: local("Lato Bold"), local("Lato-Bold"), url("/assets/fonts/lato/lato-v16-latin-700.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-700.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-700.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-700.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-700.svg#Lato") format("svg");
+  /* Legacy iOS */
+}
+
+/* lato-700italic - latin */
+@font-face {
+  font-family: "Lato";
+  font-weight: 700;
+  font-style: italic;
+
+  src: url("/assets/fonts/lato/lato-v16-latin-700italic.eot");
+  /* IE9 Compat Modes */
+  src: local("Lato Bold Italic"), local("Lato-BoldItalic"), url("/assets/fonts/lato/lato-v16-latin-700italic.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-700italic.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-700italic.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-700italic.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-700italic.svg#Lato") format("svg");
+  /* Legacy iOS */
+}
+
+/* lato-900italic - latin */
+@font-face {
+  font-family: "Lato";
+  font-weight: 900;
+  font-style: italic;
+
+  src: url("/assets/fonts/lato/lato-v16-latin-900italic.eot");
+  /* IE9 Compat Modes */
+  src: local("Lato Black Italic"), local("Lato-BlackItalic"), url("/assets/fonts/lato/lato-v16-latin-900italic.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-900italic.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-900italic.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-900italic.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-900italic.svg#Lato") format("svg");
+  /* Legacy iOS */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden; 
+  color: #000000;
+  background-color: #f2f2f2;
+  font-family: "Lato",Monospace;
+  font-size: 16px;
+  line-height: 1.43;
+}
+
+.container {
+  min-width: 1020px;
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+/*block portfolio-section*/
+.portfolio-section {
+  padding-top: 61px;
+  padding-bottom: 35px;
+  border-bottom: solid 6px #323746; 
+  background-color: #2d303a;
+}
+.portfolio-section__title {
+  display: inline-block;
+  margin-bottom: 21px; 
+  text-transform: capitalize;
+  color: #666d89;
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 30px;
+}
+.portfolio-section__text {
+  text-align: justify; 
+  color: #767e9e;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 30px;
+}
+.portfolio-section__tags {
+  margin-bottom: 20px;
+}
+.portfolio-section__body {
+  padding: 11px 0;
+}
+
+/* block portfolio-list*/
+.portfolio-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 -10px;
+}
+.portfolio-list__item {
+  overflow: hidden;
+  width: calc( 100% / 4);
+  height: 187px;
+  margin-bottom: 20px; 
+  padding: 0 10px;
+}
+.portfolio-list__link {
+  display: inline-block;
+  overflow: hidden;
+  height: 100%;
+}
+.portfolio-list__image {
+  display: inline-block;
+  width: 100%; 
+  height: 100%;
+}
+.portfolio-list__image:hover {
+
+  transition: 0.3s ease-in-out; 
+  transform: scale(1.1);
+}
+
+/*block about-section */
+.about-section {
+  padding-top: 62px;
+  padding-bottom: 68px;
+}
+.about-section__wrap {
+  padding-top: 77px;
+}
+.about-section__title {
+  display: inline-block;
+  margin-bottom: 21px; 
+  text-transform: capitalize;
+  color: #666d89;
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 30px;
+}
+.about-section__text {
+  text-align: justify; 
+  color: #767e9e;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 30px;
+}
+.about-section__body {
+  padding-top: 44px;
+}
+
+/*block about-stuff*/
+.about-stuff__list {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  margin: 0 -10px;
+}
+
+.about-stuff__item {
+  width: calc( 100% / 3);
+  padding: 0 10px;
+}
+
+.about-stuff__box-image {
+  margin-bottom: 12px;
+}
+
+.about-stuff__image {
+  display: inline-block;
+  width: 100%; 
+  height: 100%;
+}
+
+.about-stuff__name {
+  margin-bottom: 10px; 
+  text-transform: capitalize;
+  color: #666d89;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 18px;
+}
+
+.about-stuff__text {
+  text-align: left; 
+  color: #767e9e;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+.about-stuff__social {
+  padding-top: 22px;
+}
+
+/* block tag*/
+.tags {
+  text-decoration: none;
+  text-transform: capitalize; 
+  color: #767e9e;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 12px;
+}
+.tags__item {
+  display: inline-block;
+  margin-right: 11px; 
+  padding-right: 7px;
+  padding-left: 7px;
+  text-decoration: inherit;
+  color: inherit;
+  border: 1px solid #666d89;
+  border-radius: 5px;
+  line-height: 20px;
+}
+.tags__item--active {
+  color: #dedede;
+  border: 1px solid #dedede;
+}
+.tags__item:hover {
+  text-decoration: underline; 
+  color: #dedede;
+  border: 1px solid #dedede;
+}
+
+/* block social*/
+.social__item {
+  margin-right: 9px;
+}
+
+/* block icon*/
+.icon {
+  display: inline-block;
+  border: 1px solid #666d89;
+  border-radius: 16px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.icon__facebook {
+  background-image: url("/assets/images/icons/social/facebook.png");
+}
+.icon__google {
+  background-image: url("/assets/images/icons/social/google.png");
+}
+.icon__twitter {
+  background-image: url("/assets/images/icons/social/twitter.png");
+}
+.icon__linkedin {
+  background-image: url("/assets/images/icons/social/linkedin.png");
+}
+.icon--small {
+  width: 32px;
+  height: 32px;
+}
