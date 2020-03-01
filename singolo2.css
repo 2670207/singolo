@@ -177,6 +177,9 @@ body {
   margin-bottom: 20px; 
   padding: 0 10px;
 }
+.portfolio-list__item:nth-child(n+13) {
+  display: none;
+}
 .portfolio-list__link {
   display: inline-block;
   height: 100%;
