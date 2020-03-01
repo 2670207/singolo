@@ -179,7 +179,6 @@ body {
 }
 .portfolio-list__link {
   display: inline-block;
-  overflow: hidden;
   height: 100%;
 }
 .portfolio-list__image {
@@ -188,9 +187,10 @@ body {
   height: 100%;
 }
 .portfolio-list__image:hover {
-
-  transition: 0.3s ease-in-out; 
-  transform: scale(1.1);
+  -webkit-transition: 0.3s ease-in-out;
+          transition: 0.3s ease-in-out; 
+  -webkit-transform: scale(1);
+          transform: scale(1);
 }
 
 /*block about-section */
@@ -245,8 +245,11 @@ body {
 }
 
 .about-stuff__name {
-  margin-bottom: 10px; 
+  overflow: hidden;
+  margin-bottom: 10px;
+  white-space: nowrap;
   text-transform: capitalize;
+  text-overflow: ellipsis; 
   color: #666d89;
   font-size: 18px;
   font-weight: 900;
