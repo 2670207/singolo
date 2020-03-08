@@ -451,7 +451,7 @@ body {
 
 .about-stuff__name {
   overflow: hidden;
-  margin-bottom: 1px;
+  margin-bottom: 10px;
   white-space: nowrap;
   text-transform: capitalize;
   text-overflow: ellipsis; 
@@ -505,7 +505,7 @@ body {
 
 /* block social*/
 .social__item {
-  margin-right: 8px;
+  margin-right: 9px;
 }
 
 /* block icon*/
