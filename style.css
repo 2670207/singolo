@@ -585,9 +585,6 @@ body {
   font-weight: 900;
   line-height: 18px;
 }
-.contact-information__text {
-  text-align: justify;
-}
 .contact-information__list {
   margin-left: 22px;
   list-style: none;
