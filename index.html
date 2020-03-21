@@ -14,12 +14,12 @@
             <h1 class="logo"><a class="logo__link">Singolo</a></h1>
           </div>
           <nav class="header__navigation">
-            <ul class="menu">
-              <li class="menu__element"><a class="menu__link menu__link--active" href="#home">home</a></li>
-              <li class="menu__element menu__element--dot"><a class="menu__link" href="#services">services</a></li>
-              <li class="menu__element menu__element--dot"><a class="menu__link" href="#portfolio">portfolio</a></li>
-              <li class="menu__element menu__element--dot"><a class="menu__link" href="#about">about</a></li>
-              <li class="menu__element menu__element--dot"><a class="menu__link" href="#contact">contact</a></li>
+            <ul class="menu" id="menu">
+              <li class="menu__element" data-menu-link><a class="menu__link menu__link--active" href="#home">home</a></li>
+              <li class="menu__element menu__element--dot" data-menu-link> <a class="menu__link" href="#services">services</a></li>
+              <li class="menu__element menu__element--dot" data-menu-link> <a class="menu__link" href="#portfolio">portfolio</a></li>
+              <li class="menu__element menu__element--dot" data-menu-link> <a class="menu__link" href="#about">about</a></li>
+              <li class="menu__element menu__element--dot" data-menu-link> <a class="menu__link" href="#contact">contact</a></li>
             </ul>
           </nav>
         </div>
@@ -28,7 +28,15 @@
     <section class="slider">
       <div class="container">
         <div class="slider__body">
-          <div class="slider__item slider__item--1"><img src="assets/images/content/iphone-vertical.png" alt=""><img src="assets/images/content/iphone-horizont.png" alt=""></div>
+          <div class="slider__item slider__item--1 slider__item--active" data-color="#f06c64">
+            <div class="slider__item--phone-vertical">
+              <div class="slider__item--botton-vertical"></div>
+            </div>
+            <div class="slider__item--phone-horizont">
+              <div class="slider__item--botton-horizont"></div>
+            </div>
+          </div>
+          <div class="slider__item slider__item--2" data-color="#648BF0"><img src="assets/images/content/slider2.png" alt=""></div>
           <div class="slider__navigation">
             <button class="slider__control slider__control--prevent"></button>
             <button class="slider__control slider__control--next"></button>
@@ -36,7 +44,7 @@
         </div>
       </div>
     </section>
-    <section class="services">
+    <section class="services" id="services">
       <div class="container">
         <h2 class="services__header">Our Services</h2>
         <p class="services__text">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
@@ -88,16 +96,16 @@
         </div>
       </div>
     </section>
-    <section class="portfolio-section">
+    <section class="portfolio-section" id="portfolio">
       <div class="container">
         <div class="portfolio-section__head">
           <h2 class="portfolio-section__title">Portfolio</h2>
           <p class="portfolio-section__text">Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
         </div>
         <div class="portfolio-section__body">
-          <div class="portfolio-section__tags tags"><a class="tags__item tags__item--active" href="#">All</a><a class="tags__item" href="#">Web Design</a><a class="tags__item" href="#">Graphic Design</a><a class="tags__item" href="#">Artwork</a>
+          <div class="portfolio-section__tags tags" data-js-tags="true"><a class="tags__item tags__item--active" href="#">All</a><a class="tags__item" href="#">Web Design</a><a class="tags__item" href="#">Graphic Design</a><a class="tags__item" href="#">Artwork</a>
           </div>
-          <div class="portfolio-list">
+          <div class="portfolio-list" data-js-portfolio="true">
             <div class="portfolio-list__item"><a class="portfolio-list__link" href="#"><img class="portfolio-list__image" src="assets/images/demo/portfolio/1.jpg"></a></div>
             <div class="portfolio-list__item"><a class="portfolio-list__link" href="#"><img class="portfolio-list__image" src="assets/images/demo/portfolio/2.jpg"></a></div>
             <div class="portfolio-list__item"><a class="portfolio-list__link" href="#"><img class="portfolio-list__image" src="assets/images/demo/portfolio/3.jpg"></a></div>
@@ -114,7 +122,7 @@
         </div>
       </div>
     </section>
-    <section class="about-section">
+    <section class="about-section" id="about">
       <div class="container"> 
         <div class="about-section__head"> 
           <h2 class="about-section__title">About Us</h2>
@@ -149,7 +157,7 @@
         </div>
       </div>
     </section>
-    <section class="contact-section">
+    <section class="contact-section" id="contact">
       <div class="container">
         <div class="contact-section__head">
           <h2 class="contact-section__title">Get a Quote</h2>
@@ -157,7 +165,7 @@
         </div>
         <div class="contact-section__body">
           <div class="contact-section__left">
-            <form class="form" action="" method="post"> 
+            <form class="form" action="" method="post" id="contact-form"> 
               <div class="form__group">
                 <input class="form__input form-input__text" required="required" type="text" placeholder="Name(Required)" value="">
               </div>
@@ -165,10 +173,10 @@
                 <input class="form__input form-input__email" required="required" type="email" placeholder="Email(Required)" value="">
               </div>
               <div class="form__group">
-                <input class="form__input form-input__text" type="text" placeholder="Subject" value="">
+                <input class="form__input form-input__text" type="text" placeholder="Subject" data-field="subject" value="">
               </div>
               <div class="form__group">
-                <textarea class="form__textarea" cols="30" rows="14" placeholder="Describe your project in detail..."></textarea>
+                <textarea class="form__textarea" cols="30" maxlength="50" rows="14" placeholder="Describe your project in detail..." data-field="description"></textarea>
               </div>
               <div class="form__group">
                 <input class="form__button" type="submit" value="submit">
@@ -198,7 +206,7 @@
             <p class="foooter-section__copyright">© Copyright 2013</p>
           </div>
           <div class="footer-section__left">
-            <div class="footer-section-social"><a class="footer-section-social__link" href="#"><i class="footer-section-social__icon footer-section-social__icon--facebook"></i></a><a class="footer-section-social__link" href="#"><i class="footer-section-social__icon footer-section-social__icon--google"></i></a><a class="footer-section-social__link" href="#"><i class="footer-section-social__icon footer-section-social__icon--twitter"></i></a><a class="footer-section-social__link" href="#"><i class="footer-section-social__icon footer-section-social__icon--linkedin"></i></a>
+            <div class="footer-section-social"><a class="footer-section-social__link" href="#"><i class="footer-section-social__icon footer-section-social__icon--facebook">  </i></a><a class="footer-section-social__link" href="#"><i class="footer-section-social__icon footer-section-social__icon--google">  </i></a><a class="footer-section-social__link" href="#"><i class="footer-section-social__icon footer-section-social__icon--twitter">  </i></a><a class="footer-section-social__link" href="#"><i class="footer-section-social__icon footer-section-social__icon--linkedin">  </i></a>
             </div>
           </div>
         </div>
@@ -206,3 +214,15 @@
     </footer>
   </body>
 </html>
+<div class="modal" data-modal>
+  <div class="modal__container form">
+    <div class="modal__content">
+      <h4>Письмо отправлено</h4>
+      <div data-modal-body></div>
+    </div>
+    <div class="modal_bottom">
+      <input class="form__button" type="submit" value="Ok" data-modal-close="true">
+    </div>
+  </div>
+</div>
+<script src="script.js" type="text/javascript"></script>

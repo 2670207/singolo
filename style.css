@@ -5,9 +5,9 @@
   font-weight: 100;
   font-style: normal;
 
-  src: url("/assets/fonts/lato/lato-v16-latin-100.eot");
+  src: url("assets/fonts/lato/lato-v16-latin-100.eot");
   /* IE9 Compat Modes */
-  src: local("Lato Hairline"), local("Lato-Hairline"), url("/assets/fonts/lato/lato-v16-latin-100.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-100.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-100.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-100.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-100.svg#Lato") format("svg");
+  src: local("Lato Hairline"), local("Lato-Hairline"), url("assets/fonts/lato/lato-v16-latin-100.eot?#iefix") format("embedded-opentype"), url("assets/fonts/lato/lato-v16-latin-100.woff2") format("woff2"), url("assets/fonts/lato/lato-v16-latin-100.woff") format("woff"), url("assets/fonts/lato/lato-v16-latin-100.ttf") format("truetype"), url("assets/fonts/lato/lato-v16-latin-100.svg#Lato") format("svg");
   /* Legacy iOS */
 }
 
@@ -17,9 +17,9 @@
   font-weight: 100;
   font-style: italic;
 
-  src: url("/assets/fonts/lato/lato-v16-latin-100italic.eot");
+  src: url("assets/fonts/lato/lato-v16-latin-100italic.eot");
   /* IE9 Compat Modes */
-  src: local("Lato Hairline Italic"), local("Lato-HairlineItalic"), url("/assets/fonts/lato/lato-v16-latin-100italic.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-100italic.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-100italic.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-100italic.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-100italic.svg#Lato") format("svg");
+  src: local("Lato Hairline Italic"), local("Lato-HairlineItalic"), url("assets/fonts/lato/lato-v16-latin-100italic.eot?#iefix") format("embedded-opentype"), url("assets/fonts/lato/lato-v16-latin-100italic.woff2") format("woff2"), url("assets/fonts/lato/lato-v16-latin-100italic.woff") format("woff"), url("assets/fonts/lato/lato-v16-latin-100italic.ttf") format("truetype"), url("assets/fonts/lato/lato-v16-latin-100italic.svg#Lato") format("svg");
   /* Legacy iOS */
 }
 
@@ -29,9 +29,9 @@
   font-weight: 300;
   font-style: normal;
 
-  src: url("/assets/fonts/lato/lato-v16-latin-300.eot");
+  src: url("assets/fonts/lato/lato-v16-latin-300.eot");
   /* IE9 Compat Modes */
-  src: local("Lato Light"), local("Lato-Light"), url("/assets/fonts/lato/lato-v16-latin-300.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-300.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-300.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-300.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-300.svg#Lato") format("svg");
+  src: local("Lato Light"), local("Lato-Light"), url("assets/fonts/lato/lato-v16-latin-300.eot?#iefix") format("embedded-opentype"), url("assets/fonts/lato/lato-v16-latin-300.woff2") format("woff2"), url("assets/fonts/lato/lato-v16-latin-300.woff") format("woff"), url("assets/fonts/lato/lato-v16-latin-300.ttf") format("truetype"), url("assets/fonts/lato/lato-v16-latin-300.svg#Lato") format("svg");
   /* Legacy iOS */
 }
 
@@ -41,9 +41,9 @@
   font-weight: 300;
   font-style: italic;
 
-  src: url("/assets/fonts/lato/lato-v16-latin-300italic.eot");
+  src: url("assets/fonts/lato/lato-v16-latin-300italic.eot");
   /* IE9 Compat Modes */
-  src: local("Lato Light Italic"), local("Lato-LightItalic"), url("/assets/fonts/lato/lato-v16-latin-300italic.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-300italic.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-300italic.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-300italic.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-300italic.svg#Lato") format("svg");
+  src: local("Lato Light Italic"), local("Lato-LightItalic"), url("assets/fonts/lato/lato-v16-latin-300italic.eot?#iefix") format("embedded-opentype"), url("assets/fonts/lato/lato-v16-latin-300italic.woff2") format("woff2"), url("assets/fonts/lato/lato-v16-latin-300italic.woff") format("woff"), url("assets/fonts/lato/lato-v16-latin-300italic.ttf") format("truetype"), url("assets/fonts/lato/lato-v16-latin-300italic.svg#Lato") format("svg");
   /* Legacy iOS */
 }
 
@@ -53,9 +53,9 @@
   font-weight: 400;
   font-style: normal;
 
-  src: url("/assets/fonts/lato/lato-v16-latin-regular.eot");
+  src: url("assets/fonts/lato/lato-v16-latin-regular.eot");
   /* IE9 Compat Modes */
-  src: local("Lato Regular"), local("Lato-Regular"), url("/assets/fonts/lato/lato-v16-latin-regular.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-regular.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-regular.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-regular.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-regular.svg#Lato") format("svg");
+  src: local("Lato Regular"), local("Lato-Regular"), url("assets/fonts/lato/lato-v16-latin-regular.eot?#iefix") format("embedded-opentype"), url("assets/fonts/lato/lato-v16-latin-regular.woff2") format("woff2"), url("assets/fonts/lato/lato-v16-latin-regular.woff") format("woff"), url("assets/fonts/lato/lato-v16-latin-regular.ttf") format("truetype"), url("assets/fonts/lato/lato-v16-latin-regular.svg#Lato") format("svg");
   /* Legacy iOS */
 }
 
@@ -65,9 +65,9 @@
   font-weight: 400;
   font-style: italic;
 
-  src: url("/assets/fonts/lato/lato-v16-latin-italic.eot");
+  src: url("assets/fonts/lato/lato-v16-latin-italic.eot");
   /* IE9 Compat Modes */
-  src: local("Lato Italic"), local("Lato-Italic"), url("/assets/fonts/lato/lato-v16-latin-italic.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-italic.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-italic.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-italic.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-italic.svg#Lato") format("svg");
+  src: local("Lato Italic"), local("Lato-Italic"), url("assets/fonts/lato/lato-v16-latin-italic.eot?#iefix") format("embedded-opentype"), url("assets/fonts/lato/lato-v16-latin-italic.woff2") format("woff2"), url("assets/fonts/lato/lato-v16-latin-italic.woff") format("woff"), url("assets/fonts/lato/lato-v16-latin-italic.ttf") format("truetype"), url("assets/fonts/lato/lato-v16-latin-italic.svg#Lato") format("svg");
   /* Legacy iOS */
 }
 
@@ -77,9 +77,9 @@
   font-weight: 700;
   font-style: normal;
 
-  src: url("/assets/fonts/lato/lato-v16-latin-700.eot");
+  src: url("assets/fonts/lato/lato-v16-latin-700.eot");
   /* IE9 Compat Modes */
-  src: local("Lato Bold"), local("Lato-Bold"), url("/assets/fonts/lato/lato-v16-latin-700.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-700.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-700.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-700.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-700.svg#Lato") format("svg");
+  src: local("Lato Bold"), local("Lato-Bold"), url("assets/fonts/lato/lato-v16-latin-700.eot?#iefix") format("embedded-opentype"), url("assets/fonts/lato/lato-v16-latin-700.woff2") format("woff2"), url("assets/fonts/lato/lato-v16-latin-700.woff") format("woff"), url("assets/fonts/lato/lato-v16-latin-700.ttf") format("truetype"), url("assets/fonts/lato/lato-v16-latin-700.svg#Lato") format("svg");
   /* Legacy iOS */
 }
 
@@ -89,9 +89,9 @@
   font-weight: 700;
   font-style: italic;
 
-  src: url("/assets/fonts/lato/lato-v16-latin-700italic.eot");
+  src: url("assets/fonts/lato/lato-v16-latin-700italic.eot");
   /* IE9 Compat Modes */
-  src: local("Lato Bold Italic"), local("Lato-BoldItalic"), url("/assets/fonts/lato/lato-v16-latin-700italic.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-700italic.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-700italic.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-700italic.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-700italic.svg#Lato") format("svg");
+  src: local("Lato Bold Italic"), local("Lato-BoldItalic"), url("assets/fonts/lato/lato-v16-latin-700italic.eot?#iefix") format("embedded-opentype"), url("assets/fonts/lato/lato-v16-latin-700italic.woff2") format("woff2"), url("assets/fonts/lato/lato-v16-latin-700italic.woff") format("woff"), url("assets/fonts/lato/lato-v16-latin-700italic.ttf") format("truetype"), url("assets/fonts/lato/lato-v16-latin-700italic.svg#Lato") format("svg");
   /* Legacy iOS */
 }
 
@@ -101,9 +101,9 @@
   font-weight: 900;
   font-style: italic;
 
-  src: url("/assets/fonts/lato/lato-v16-latin-900italic.eot");
+  src: url("assets/fonts/lato/lato-v16-latin-900italic.eot");
   /* IE9 Compat Modes */
-  src: local("Lato Black Italic"), local("Lato-BlackItalic"), url("/assets/fonts/lato/lato-v16-latin-900italic.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/lato/lato-v16-latin-900italic.woff2") format("woff2"), url("/assets/fonts/lato/lato-v16-latin-900italic.woff") format("woff"), url("/assets/fonts/lato/lato-v16-latin-900italic.ttf") format("truetype"), url("/assets/fonts/lato/lato-v16-latin-900italic.svg#Lato") format("svg");
+  src: local("Lato Black Italic"), local("Lato-BlackItalic"), url("assets/fonts/lato/lato-v16-latin-900italic.eot?#iefix") format("embedded-opentype"), url("assets/fonts/lato/lato-v16-latin-900italic.woff2") format("woff2"), url("assets/fonts/lato/lato-v16-latin-900italic.woff") format("woff"), url("assets/fonts/lato/lato-v16-latin-900italic.ttf") format("truetype"), url("assets/fonts/lato/lato-v16-latin-900italic.svg#Lato") format("svg");
   /* Legacy iOS */
 }
 
@@ -135,7 +135,10 @@ body {
 }
 
 .header {
-  border-bottom: 6px solid #323746; 
+  position: fixed;
+  z-index: 1;
+  width: 100%; 
+  border-bottom: 6px solid #323746;
   background-color: #2d303a;
 }
 .header__top {
@@ -199,7 +202,8 @@ body {
 }
 
 .slider {
-  overflow: hidden; 
+  overflow: hidden;
+  padding-top: 89px; 
   border-bottom: 6px solid #ea676b;
   background-color: #f06c64;
 }
@@ -209,7 +213,46 @@ body {
   height: 594px;
 }
 .slider__item {
+  position: relative; 
+  display: none;
+}
+.slider__item--botton-vertical {
   position: relative;
+  top: 407px;
+  left: 86px;
+  width: 43px;
+  height: 43px;
+  border-radius: 50%;
+}
+.slider__item--botton-horizont {
+  position: relative;
+  top: 87px;
+  left: 9px;
+  width: 43px;
+  height: 43px;
+  border-radius: 50%;
+}
+.slider__item--phone-vertical {
+  position: absolute;
+  top: 59px;
+  left: 72px;
+  width: 240px;
+  height: 483px;
+  background: url(assets/images/content/iphone-vertical.png);
+}
+.slider__item--phone-vertical.switch-off {
+  background: url(assets/images/content/iphone-vertical-switch-off.png);
+}
+.slider__item--phone-horizont {
+  position: absolute;
+  top: 180px;
+  left: 385px;
+  width: 484px;
+  height: 240px;
+  background: url(assets/images/content/iphone-horizont.png);
+}
+.slider__item--phone-horizont.switch-off {
+  background: url(assets/images/content/iphone-horizont-switch-off.png);
 }
 .slider__item--1 > img:first-child {
   position: absolute;
@@ -220,6 +263,9 @@ body {
   position: absolute;
   top: 174px; 
   left: 386px;
+}
+.slider__item--active {
+  display: block;
 }
 .slider__control {
   position: absolute;
@@ -383,6 +429,9 @@ body {
   display: inline-block;
   height: 100%;
 }
+.portfolio-list__link--active {
+  border: 5px solid #f06c64;
+}
 .portfolio-list__image {
   display: inline-block;
   width: 100%; 
@@ -451,7 +500,7 @@ body {
 
 .about-stuff__name {
   overflow: hidden;
-  margin-bottom: 10px;
+  margin-bottom: 11px;
   white-space: nowrap;
   text-transform: capitalize;
   text-overflow: ellipsis; 
@@ -505,7 +554,7 @@ body {
 
 /* block social*/
 .social__item {
-  margin-right: 9px;
+  margin-right: 8px;
 }
 
 /* block icon*/
@@ -584,9 +633,6 @@ body {
   font-size: 18px;
   font-weight: 900;
   line-height: 18px;
-}
-.contact-information__text {
-  text-align: justify;
 }
 .contact-information__list {
   margin-left: 22px;
@@ -734,4 +780,27 @@ body {
 .icon--small {
   width: 32px;
   height: 32px;
+}
+
+.modal {
+  position: fixed;
+  z-index: 20;
+  top: 0;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.modal__container {
+  width: 40%;
+  padding: 5px;
+  text-align: center; 
+  color: #767e9e;
+  background-color: #f2f2f2;
+  font-size: 16px;
+}
+.modal__content {
+  padding: 10px;
 }
