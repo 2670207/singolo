@@ -10,6 +10,11 @@
     <header class="header">
       <div class="container">
         <div class="header__top">
+          <div class="hamburger js-hamburger">
+            <div class="hamburger-item"></div>
+            <div class="hamburger-item"></div>
+            <div class="hamburger-item"></div>
+          </div>
           <div class="header__logo">
             <h1 class="logo"><a class="logo__link">Singolo</a></h1>
           </div>
@@ -36,10 +41,10 @@
               <div class="slider__item--botton-horizont"></div>
             </div>
           </div>
-          <div class="slider__item slider__item--2" data-color="#648BF0"><img src="assets/images/content/slider2.png" alt=""></div>
+          <div class="slider__item slider__item--2" data-color="#648BF0"><img src="assets/images/content/slider2.png" alt="" width="100%" height="100%"></div>
           <div class="slider__navigation">
-            <button class="slider__control slider__control--prevent"></button>
-            <button class="slider__control slider__control--next"></button>
+            <button class="slider__control slider__control--prevent" data-control="right"></button>
+            <button class="slider__control slider__control--next" data-control="left"></button>
           </div>
         </div>
       </div>
@@ -167,10 +172,10 @@
           <div class="contact-section__left">
             <form class="form" action="" method="post" id="contact-form"> 
               <div class="form__group">
-                <input class="form__input form-input__text" required="required" type="text" placeholder="Name(Required)" value="">
+                <input class="form__input form-input__text" type="text" placeholder="Name(Required)" data-field="name" value="">
               </div>
               <div class="form__group">
-                <input class="form__input form-input__email" required="required" type="email" placeholder="Email(Required)" value="">
+                <input class="form__input form-input__email" type="email" placeholder="Email(Required)" data-field="email" value="">
               </div>
               <div class="form__group">
                 <input class="form__input form-input__text" type="text" placeholder="Subject" data-field="subject" value="">
