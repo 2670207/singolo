@@ -108,7 +108,7 @@ document.addEventListener("scroll", (event) => {
             clear();
             document.querySelector('[href="#about"]').classList.add('menu__link--active')
         }
-        if(window.scrollY > 2725){
+        if(window.scrollY > 2715){
             clear();
             document.querySelector('[href="#contact"]').classList.add('menu__link--active')
         }
